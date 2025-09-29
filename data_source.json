@@ -1,0 +1,764 @@
+[
+  {
+    "id": 1,
+    "name": "Rick Sanchez",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "origin": {
+      "id": 1,
+      "name": "Earth (C-137)"
+    },
+    "current_location": {
+      "id": 3,
+      "name": "Citadel of Ricks"
+    },
+    "episode_count": 51,
+    "episode_ids": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51
+    ],
+    "first_appearance": 1,
+    "last_appearance": 51,
+    "image_url": "https://rickandmortyapi.com/api/character/avatar/1.jpeg",
+    "api_url": "https://rickandmortyapi.com/api/character/1",
+    "created_date": "2017-11-04T18:48:46.250Z",
+    "description": "Rick Sanchez is a alive human (male) who originated from Earth (C-137) and currently resides in Citadel of Ricks. Appeared in 51 episodes.",
+    "searchable_text": "Rick Sanchez Human Alive Male Earth (C-137) Citadel of Ricks "
+  },
+  {
+    "id": 2,
+    "name": "Morty Smith",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "origin": {
+      "id": null,
+      "name": "unknown"
+    },
+    "current_location": {
+      "id": 3,
+      "name": "Citadel of Ricks"
+    },
+    "episode_count": 51,
+    "episode_ids": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51
+    ],
+    "first_appearance": 1,
+    "last_appearance": 51,
+    "image_url": "https://rickandmortyapi.com/api/character/avatar/2.jpeg",
+    "api_url": "https://rickandmortyapi.com/api/character/2",
+    "created_date": "2017-11-04T18:50:21.651Z",
+    "description": "Morty Smith is a alive human (male) who originated from unknown and currently resides in Citadel of Ricks. Appeared in 51 episodes.",
+    "searchable_text": "Morty Smith Human Alive Male unknown Citadel of Ricks "
+  },
+  {
+    "id": 3,
+    "name": "Summer Smith",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "origin": {
+      "id": 20,
+      "name": "Earth (Replacement Dimension)"
+    },
+    "current_location": {
+      "id": 20,
+      "name": "Earth (Replacement Dimension)"
+    },
+    "episode_count": 42,
+    "episode_ids": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      51
+    ],
+    "first_appearance": 6,
+    "last_appearance": 51,
+    "image_url": "https://rickandmortyapi.com/api/character/avatar/3.jpeg",
+    "api_url": "https://rickandmortyapi.com/api/character/3",
+    "created_date": "2017-11-04T19:09:56.428Z",
+    "description": "Summer Smith is a alive human (female) who originated from Earth (Replacement Dimension) and currently resides in Earth (Replacement Dimension). Appeared in 42 episodes.",
+    "searchable_text": "Summer Smith Human Alive Female Earth (Replacement Dimension) Earth (Replacement Dimension) "
+  },
+  {
+    "id": 4,
+    "name": "Beth Smith",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "origin": {
+      "id": 20,
+      "name": "Earth (Replacement Dimension)"
+    },
+    "current_location": {
+      "id": 20,
+      "name": "Earth (Replacement Dimension)"
+    },
+    "episode_count": 42,
+    "episode_ids": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      14,
+      15,
+      16,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      51
+    ],
+    "first_appearance": 6,
+    "last_appearance": 51,
+    "image_url": "https://rickandmortyapi.com/api/character/avatar/4.jpeg",
+    "api_url": "https://rickandmortyapi.com/api/character/4",
+    "created_date": "2017-11-04T19:22:43.665Z",
+    "description": "Beth Smith is a alive human (female) who originated from Earth (Replacement Dimension) and currently resides in Earth (Replacement Dimension). Appeared in 42 episodes.",
+    "searchable_text": "Beth Smith Human Alive Female Earth (Replacement Dimension) Earth (Replacement Dimension) "
+  },
+  {
+    "id": 5,
+    "name": "Jerry Smith",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "origin": {
+      "id": 20,
+      "name": "Earth (Replacement Dimension)"
+    },
+    "current_location": {
+      "id": 20,
+      "name": "Earth (Replacement Dimension)"
+    },
+    "episode_count": 39,
+    "episode_ids": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      26,
+      29,
+      30,
+      31,
+      32,
+      33,
+      35,
+      36,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51
+    ],
+    "first_appearance": 6,
+    "last_appearance": 51,
+    "image_url": "https://rickandmortyapi.com/api/character/avatar/5.jpeg",
+    "api_url": "https://rickandmortyapi.com/api/character/5",
+    "created_date": "2017-11-04T19:26:56.301Z",
+    "description": "Jerry Smith is a alive human (male) who originated from Earth (Replacement Dimension) and currently resides in Earth (Replacement Dimension). Appeared in 39 episodes.",
+    "searchable_text": "Jerry Smith Human Alive Male Earth (Replacement Dimension) Earth (Replacement Dimension) "
+  },
+  {
+    "id": 6,
+    "name": "Abadango Cluster Princess",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "",
+    "gender": "Female",
+    "origin": {
+      "id": 2,
+      "name": "Abadango"
+    },
+    "current_location": {
+      "id": 2,
+      "name": "Abadango"
+    },
+    "episode_count": 1,
+    "episode_ids": [
+      27
+    ],
+    "first_appearance": 27,
+    "last_appearance": 27,
+    "image_url": "https://rickandmortyapi.com/api/character/avatar/6.jpeg",
+    "api_url": "https://rickandmortyapi.com/api/character/6",
+    "created_date": "2017-11-04T19:50:28.250Z",
+    "description": "Abadango Cluster Princess is a alive alien (female) who originated from Abadango and currently resides in Abadango. Appeared in 1 episodes.",
+    "searchable_text": "Abadango Cluster Princess Alien Alive Female Abadango Abadango "
+  },
+  {
+    "id": 7,
+    "name": "Abradolf Lincler",
+    "status": "unknown",
+    "species": "Human",
+    "type": "Genetic experiment",
+    "gender": "Male",
+    "origin": {
+      "id": 20,
+      "name": "Earth (Replacement Dimension)"
+    },
+    "current_location": {
+      "id": 21,
+      "name": "Testicle Monster Dimension"
+    },
+    "episode_count": 2,
+    "episode_ids": [
+      10,
+      11
+    ],
+    "first_appearance": 10,
+    "last_appearance": 11,
+    "image_url": "https://rickandmortyapi.com/api/character/avatar/7.jpeg",
+    "api_url": "https://rickandmortyapi.com/api/character/7",
+    "created_date": "2017-11-04T19:59:20.523Z",
+    "description": "Abradolf Lincler is a unknown human (male) who originated from Earth (Replacement Dimension) and currently resides in Testicle Monster Dimension. Appeared in 2 episodes.",
+    "searchable_text": "Abradolf Lincler Human unknown Male Earth (Replacement Dimension) Testicle Monster Dimension Genetic experiment"
+  },
+  {
+    "id": 8,
+    "name": "Adjudicator Rick",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "origin": {
+      "id": null,
+      "name": "unknown"
+    },
+    "current_location": {
+      "id": 3,
+      "name": "Citadel of Ricks"
+    },
+    "episode_count": 1,
+    "episode_ids": [
+      28
+    ],
+    "first_appearance": 28,
+    "last_appearance": 28,
+    "image_url": "https://rickandmortyapi.com/api/character/avatar/8.jpeg",
+    "api_url": "https://rickandmortyapi.com/api/character/8",
+    "created_date": "2017-11-04T20:03:34.737Z",
+    "description": "Adjudicator Rick is a dead human (male) who originated from unknown and currently resides in Citadel of Ricks. Appeared in 1 episodes.",
+    "searchable_text": "Adjudicator Rick Human Dead Male unknown Citadel of Ricks "
+  },
+  {
+    "id": 9,
+    "name": "Agency Director",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "origin": {
+      "id": 20,
+      "name": "Earth (Replacement Dimension)"
+    },
+    "current_location": {
+      "id": 20,
+      "name": "Earth (Replacement Dimension)"
+    },
+    "episode_count": 1,
+    "episode_ids": [
+      24
+    ],
+    "first_appearance": 24,
+    "last_appearance": 24,
+    "image_url": "https://rickandmortyapi.com/api/character/avatar/9.jpeg",
+    "api_url": "https://rickandmortyapi.com/api/character/9",
+    "created_date": "2017-11-04T20:06:54.976Z",
+    "description": "Agency Director is a dead human (male) who originated from Earth (Replacement Dimension) and currently resides in Earth (Replacement Dimension). Appeared in 1 episodes.",
+    "searchable_text": "Agency Director Human Dead Male Earth (Replacement Dimension) Earth (Replacement Dimension) "
+  },
+  {
+    "id": 10,
+    "name": "Alan Rails",
+    "status": "Dead",
+    "species": "Human",
+    "type": "Superhuman (Ghost trains summoner)",
+    "gender": "Male",
+    "origin": {
+      "id": null,
+      "name": "unknown"
+    },
+    "current_location": {
+      "id": 4,
+      "name": "Worldender's lair"
+    },
+    "episode_count": 1,
+    "episode_ids": [
+      25
+    ],
+    "first_appearance": 25,
+    "last_appearance": 25,
+    "image_url": "https://rickandmortyapi.com/api/character/avatar/10.jpeg",
+    "api_url": "https://rickandmortyapi.com/api/character/10",
+    "created_date": "2017-11-04T20:19:09.017Z",
+    "description": "Alan Rails is a dead human (male) who originated from unknown and currently resides in Worldender's lair. Appeared in 1 episodes.",
+    "searchable_text": "Alan Rails Human Dead Male unknown Worldender's lair Superhuman (Ghost trains summoner)"
+  },
+  {
+    "id": 11,
+    "name": "Albert Einstein",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "origin": {
+      "id": 1,
+      "name": "Earth (C-137)"
+    },
+    "current_location": {
+      "id": 20,
+      "name": "Earth (Replacement Dimension)"
+    },
+    "episode_count": 1,
+    "episode_ids": [
+      12
+    ],
+    "first_appearance": 12,
+    "last_appearance": 12,
+    "image_url": "https://rickandmortyapi.com/api/character/avatar/11.jpeg",
+    "api_url": "https://rickandmortyapi.com/api/character/11",
+    "created_date": "2017-11-04T20:20:20.965Z",
+    "description": "Albert Einstein is a dead human (male) who originated from Earth (C-137) and currently resides in Earth (Replacement Dimension). Appeared in 1 episodes.",
+    "searchable_text": "Albert Einstein Human Dead Male Earth (C-137) Earth (Replacement Dimension) "
+  },
+  {
+    "id": 12,
+    "name": "Alexander",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "origin": {
+      "id": 1,
+      "name": "Earth (C-137)"
+    },
+    "current_location": {
+      "id": 5,
+      "name": "Anatomy Park"
+    },
+    "episode_count": 1,
+    "episode_ids": [
+      3
+    ],
+    "first_appearance": 3,
+    "last_appearance": 3,
+    "image_url": "https://rickandmortyapi.com/api/character/avatar/12.jpeg",
+    "api_url": "https://rickandmortyapi.com/api/character/12",
+    "created_date": "2017-11-04T20:32:33.144Z",
+    "description": "Alexander is a dead human (male) who originated from Earth (C-137) and currently resides in Anatomy Park. Appeared in 1 episodes.",
+    "searchable_text": "Alexander Human Dead Male Earth (C-137) Anatomy Park "
+  },
+  {
+    "id": 13,
+    "name": "Alien Googah",
+    "status": "unknown",
+    "species": "Alien",
+    "type": "",
+    "gender": "unknown",
+    "origin": {
+      "id": null,
+      "name": "unknown"
+    },
+    "current_location": {
+      "id": 20,
+      "name": "Earth (Replacement Dimension)"
+    },
+    "episode_count": 1,
+    "episode_ids": [
+      31
+    ],
+    "first_appearance": 31,
+    "last_appearance": 31,
+    "image_url": "https://rickandmortyapi.com/api/character/avatar/13.jpeg",
+    "api_url": "https://rickandmortyapi.com/api/character/13",
+    "created_date": "2017-11-04T20:33:30.779Z",
+    "description": "Alien Googah is a unknown alien (unknown) who originated from unknown and currently resides in Earth (Replacement Dimension). Appeared in 1 episodes.",
+    "searchable_text": "Alien Googah Alien unknown unknown unknown Earth (Replacement Dimension) "
+  },
+  {
+    "id": 14,
+    "name": "Alien Morty",
+    "status": "unknown",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "origin": {
+      "id": null,
+      "name": "unknown"
+    },
+    "current_location": {
+      "id": 3,
+      "name": "Citadel of Ricks"
+    },
+    "episode_count": 1,
+    "episode_ids": [
+      10
+    ],
+    "first_appearance": 10,
+    "last_appearance": 10,
+    "image_url": "https://rickandmortyapi.com/api/character/avatar/14.jpeg",
+    "api_url": "https://rickandmortyapi.com/api/character/14",
+    "created_date": "2017-11-04T20:51:31.373Z",
+    "description": "Alien Morty is a unknown alien (male) who originated from unknown and currently resides in Citadel of Ricks. Appeared in 1 episodes.",
+    "searchable_text": "Alien Morty Alien unknown Male unknown Citadel of Ricks "
+  },
+  {
+    "id": 15,
+    "name": "Alien Rick",
+    "status": "unknown",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "origin": {
+      "id": null,
+      "name": "unknown"
+    },
+    "current_location": {
+      "id": 3,
+      "name": "Citadel of Ricks"
+    },
+    "episode_count": 1,
+    "episode_ids": [
+      10
+    ],
+    "first_appearance": 10,
+    "last_appearance": 10,
+    "image_url": "https://rickandmortyapi.com/api/character/avatar/15.jpeg",
+    "api_url": "https://rickandmortyapi.com/api/character/15",
+    "created_date": "2017-11-04T20:56:13.215Z",
+    "description": "Alien Rick is a unknown alien (male) who originated from unknown and currently resides in Citadel of Ricks. Appeared in 1 episodes.",
+    "searchable_text": "Alien Rick Alien unknown Male unknown Citadel of Ricks "
+  },
+  {
+    "id": 16,
+    "name": "Amish Cyborg",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Parasite",
+    "gender": "Male",
+    "origin": {
+      "id": null,
+      "name": "unknown"
+    },
+    "current_location": {
+      "id": 20,
+      "name": "Earth (Replacement Dimension)"
+    },
+    "episode_count": 1,
+    "episode_ids": [
+      15
+    ],
+    "first_appearance": 15,
+    "last_appearance": 15,
+    "image_url": "https://rickandmortyapi.com/api/character/avatar/16.jpeg",
+    "api_url": "https://rickandmortyapi.com/api/character/16",
+    "created_date": "2017-11-04T21:12:45.235Z",
+    "description": "Amish Cyborg is a dead alien (male) who originated from unknown and currently resides in Earth (Replacement Dimension). Appeared in 1 episodes.",
+    "searchable_text": "Amish Cyborg Alien Dead Male unknown Earth (Replacement Dimension) Parasite"
+  },
+  {
+    "id": 17,
+    "name": "Annie",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "origin": {
+      "id": 1,
+      "name": "Earth (C-137)"
+    },
+    "current_location": {
+      "id": 5,
+      "name": "Anatomy Park"
+    },
+    "episode_count": 1,
+    "episode_ids": [
+      3
+    ],
+    "first_appearance": 3,
+    "last_appearance": 3,
+    "image_url": "https://rickandmortyapi.com/api/character/avatar/17.jpeg",
+    "api_url": "https://rickandmortyapi.com/api/character/17",
+    "created_date": "2017-11-04T22:21:24.481Z",
+    "description": "Annie is a alive human (female) who originated from Earth (C-137) and currently resides in Anatomy Park. Appeared in 1 episodes.",
+    "searchable_text": "Annie Human Alive Female Earth (C-137) Anatomy Park "
+  },
+  {
+    "id": 18,
+    "name": "Antenna Morty",
+    "status": "Alive",
+    "species": "Human",
+    "type": "Human with antennae",
+    "gender": "Male",
+    "origin": {
+      "id": null,
+      "name": "unknown"
+    },
+    "current_location": {
+      "id": 3,
+      "name": "Citadel of Ricks"
+    },
+    "episode_count": 2,
+    "episode_ids": [
+      10,
+      28
+    ],
+    "first_appearance": 10,
+    "last_appearance": 28,
+    "image_url": "https://rickandmortyapi.com/api/character/avatar/18.jpeg",
+    "api_url": "https://rickandmortyapi.com/api/character/18",
+    "created_date": "2017-11-04T22:25:29.008Z",
+    "description": "Antenna Morty is a alive human (male) who originated from unknown and currently resides in Citadel of Ricks. Appeared in 2 episodes.",
+    "searchable_text": "Antenna Morty Human Alive Male unknown Citadel of Ricks Human with antennae"
+  },
+  {
+    "id": 19,
+    "name": "Antenna Rick",
+    "status": "unknown",
+    "species": "Human",
+    "type": "Human with antennae",
+    "gender": "Male",
+    "origin": {
+      "id": null,
+      "name": "unknown"
+    },
+    "current_location": {
+      "id": null,
+      "name": "unknown"
+    },
+    "episode_count": 1,
+    "episode_ids": [
+      10
+    ],
+    "first_appearance": 10,
+    "last_appearance": 10,
+    "image_url": "https://rickandmortyapi.com/api/character/avatar/19.jpeg",
+    "api_url": "https://rickandmortyapi.com/api/character/19",
+    "created_date": "2017-11-04T22:28:13.756Z",
+    "description": "Antenna Rick is a unknown human (male) who originated from unknown and currently resides in unknown. Appeared in 1 episodes.",
+    "searchable_text": "Antenna Rick Human unknown Male unknown unknown Human with antennae"
+  },
+  {
+    "id": 20,
+    "name": "Ants in my Eyes Johnson",
+    "status": "unknown",
+    "species": "Human",
+    "type": "Human with ants in his eyes",
+    "gender": "Male",
+    "origin": {
+      "id": null,
+      "name": "unknown"
+    },
+    "current_location": {
+      "id": 6,
+      "name": "Interdimensional Cable"
+    },
+    "episode_count": 1,
+    "episode_ids": [
+      8
+    ],
+    "first_appearance": 8,
+    "last_appearance": 8,
+    "image_url": "https://rickandmortyapi.com/api/character/avatar/20.jpeg",
+    "api_url": "https://rickandmortyapi.com/api/character/20",
+    "created_date": "2017-11-04T22:34:53.659Z",
+    "description": "Ants in my Eyes Johnson is a unknown human (male) who originated from unknown and currently resides in Interdimensional Cable. Appeared in 1 episodes.",
+    "searchable_text": "Ants in my Eyes Johnson Human unknown Male unknown Interdimensional Cable Human with ants in his eyes"
+  }
+]
